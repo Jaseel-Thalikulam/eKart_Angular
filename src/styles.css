@@ -8,6 +8,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    user-select: none;
+    -webkit-user-drag: none;
 }
 body{
     font-family: 'Montserrat', sans-serif;
